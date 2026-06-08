@@ -12,7 +12,6 @@ Su objetivo es mostrar mis habilidades, proyectos destacados y áreas de interé
 
 - HTML5
 - CSS3
-- JavaScript
 - Google Fonts
 - Diseño responsivo
 - Animaciones CSS
@@ -63,7 +62,6 @@ git clone URL_DEL_REPOSITORIO
 .
 ├── index.html
 ├── styles.css
-├── script.js
 └── README.md
 ```
 
