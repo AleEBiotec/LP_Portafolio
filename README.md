@@ -46,26 +46,36 @@ Su objetivo es mostrar mis habilidades, proyectos destacados y áreas de interé
 Este repositorio forma parte de una actividad de clase relacionada con ciberseguridad.
 El proyecto permite practicar la creación de una página web personal, organización de archivos, uso de GitHub y presentación profesional de habilidades digitales.
 
-## Cómo ver el proyecto localmente
-
-1. Clonar este repositorio:
-
-git clone URL_DEL_REPOSITORIO
-
-2. Abrir la carpeta del proyecto en Visual Studio Code.
-
-3. Abrir el archivo index.html directamente en el navegador o usar la extensión Live Server.
-
 ## Estructura del proyecto
 
 ```txt
-.
 ├── index.html
 ├── styles.css
 └── README.md
 ```
+## Cómo ver el proyecto localmente
+
+1. Clonar este repositorio:
+
+```bash
+git clone https://github.com/AleEBiotec/LP_Portafolio.git
+```
+
+2. Abrir la carpeta del proyecto en Visual Studio Code.
+
+3. Abrir el archivo `index.html` directamente en el navegador o usar la extensión **Live Server**.
+
+## Próximas mejoras
+
+- Agregar enlaces reales a proyectos.
+- Conectar el portafolio con GitHub.
+- Mejorar la sección de proyectos con casos de estudio.
+- Agregar una versión descargable del CV.
+- Optimizar detalles visuales y accesibilidad.
+
 
 ## Autor
 
 Ale Enriquez
+
 Perfil junior en análisis de datos, machine learning y ciberseguridad.
